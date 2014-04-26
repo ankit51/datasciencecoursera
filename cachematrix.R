@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## The functions here cache the inverse of a matrix.
 ## The matrix here is a special matrix that can cache its inverse
 
@@ -32,3 +33,6 @@ cacheSolve <- function(x, ...) {
     x$setinverse(i)
     i
 }
+=======
+## File created for Assignment (Week - 3)
+>>>>>>> 7207f0ce8994ac82c9a138158142acc55e96c7d7
